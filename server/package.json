@@ -25,6 +25,11 @@
     "nodemon": "^1.18.11",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^2.0.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4",
+    "redux-form": "8.1.0",
     "sendgrid": "^5.2.3",
     "stripe": "^7.5.0"
   }
